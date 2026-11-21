@@ -4,7 +4,7 @@
   <p><strong>Tarladan geleceğe, aynı toplulukta.</strong></p>
   <p>İnsanları, ilgi alanlarını ve toplulukları buluşturan sosyal platform.</p>
   <p>
-    <a href="https://sehitkestitarimmtal.com/agrolink/">Web sitesini keşfet</a>
+    <a href="https://sehitumitkestitarimmtal.com/agrolink/">Web sitesini keşfet</a>
     &nbsp;·&nbsp;
     <a href="https://www.instagram.com/agrososyal.app?hvrq=MWRqanlmYWpqeDU4NQ==">Instagram’da takip et</a>
     &nbsp;·&nbsp;
@@ -14,6 +14,11 @@
     <a href="https://play.google.com/store/apps/details?id=com.yourcompany.agrolink"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png" alt="Google Play'den Agro Sosyal'i indirin" height="52" /></a>
     &nbsp;
     <a href="https://www.instagram.com/agrososyal.app?hvrq=MWRqanlmYWpqeDU4NQ=="><img src="https://img.shields.io/badge/Instagram-Takip_Et-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram'da Agro Sosyal'i takip et" /></a>
+  </p>
+  <p>
+    <a href="https://sehitumitkestitarimmtal.com/linuxdeployqt-continuous-x86_64.AppImage"><img src="https://img.shields.io/badge/Linux-AppImage-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux AppImage indir" /></a>
+    &nbsp;
+    <a href="https://sehitumitkestitarimmtal.com/AgroLink%20Setup%201.0.0.exe"><img src="https://img.shields.io/badge/Windows-Kurulum-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows kurulum dosyasını indir" /></a>
   </p>
 </div>
 
@@ -56,6 +61,8 @@ Bu bölüm genel bilgilendirme ve topluluk ilkeleri özeti niteliğindedir; resm
 | Web sitesi | [Agro Sosyal web sitesi](https://sehitumitkestitarimmtal.com/agrolink/) |
 | Instagram | [@agrososyal.app](https://www.instagram.com/agrososyal.app?hvrq=MWRqanlmYWpqeDU4NQ==) |
 | Android uygulaması | [Google Play’de Agro Sosyal](https://play.google.com/store/apps/details?id=com.yourcompany.agrolink) |
+| Linux | [AppImage dosyasını indir](https://sehitumitkestitarimmtal.com/linuxdeployqt-continuous-x86_64.AppImage) |
+| Windows | [AgroLink Setup 1.0.0.exe dosyasını indir](https://sehitumitkestitarimmtal.com/AgroLink%20Setup%201.0.0.exe) |
 
 ## Marka görseli
 
