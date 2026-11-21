@@ -37,6 +37,18 @@ Gönderilerle düşünceni paylaş, hikâyeler ve kısa videolarla anlarını an
 
 Özelliklerin güncel kullanılabilirliği için [canlı siteyi](https://sehitumitkestitarimmtal.com/agrolink/) ziyaret edin.
 
+## Kullanıcı ve topluluk ilkeleri
+
+Agro Sosyal’i kullanırken diğer kişilere saygılı davranın ve farklı görüşlere alan tanıyın. Platformda paylaşım yaparken:
+
+- Taciz, tehdit, nefret söylemi, şiddet çağrısı veya başkalarını hedef gösteren içerikler paylaşmayın.
+- Dolandırıcılık, kimlik taklidi, yanıltıcı yönlendirme, spam ya da başkalarının haklarını ihlal eden içeriklerden kaçının.
+- Yalnızca paylaşma hakkına sahip olduğunuz metin, görsel, video ve diğer materyalleri yayımlayın.
+- Kendinizin veya başkalarının kişisel ve hassas bilgilerini gereksiz yere paylaşmayın; başkasına ait bilgileri izinsiz yayımlamayın.
+- Yürürlükteki yasalara ve platformda yayımlanan güncel kullanım koşullarına uyun.
+
+Bu bölüm genel bilgilendirme ve topluluk ilkeleri özeti niteliğindedir; resmî kullanım koşullarının veya hukuki metinlerin yerine geçmez. Veri işleme hakkında bilgi için [KVKK ve gizlilik sayfasını](https://sehitumitkestitarimmtal.com/kvkk/) inceleyin.
+
 ## Agro Sosyal’i keşfet
 
 | Platform | Bağlantı |
