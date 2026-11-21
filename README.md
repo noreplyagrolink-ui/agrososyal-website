@@ -2,7 +2,7 @@
   <img src="public/agro.png" alt="Agro Sosyal logosu" width="150" />
   <h1>Agro Sosyal</h1>
   <p><strong>Tarladan geleceğe, aynı toplulukta.</strong></p>
-  <p>Çiftçilerin, üreticilerin ve tarıma gönül verenlerin buluştuğu dijital topluluk.</p>
+  <p>İnsanları, ilgi alanlarını ve toplulukları buluşturan sosyal platform.</p>
   <p>
     <a href="https://sehitumitkestitarimmtal.com/agrolink/">Web sitesini keşfet</a>
     &nbsp;·&nbsp;
@@ -14,21 +14,21 @@
 
 ---
 
-## Tarımın buluşma noktası
+## Paylaş, keşfet, topluluğunu bul
 
-Üretimin arkasında emek, tecrübe ve paylaşılacak nice hikâye var. **Agro Sosyal**, tarım dünyasından insanları bir araya getirerek deneyimlerin paylaşılmasına, yeni bağlantılar kurulmasına ve ürünlerin daha görünür olmasına yardımcı olur.
+**Agro Sosyal**, insanların farklı ilgi alanları etrafında paylaşım yapabildiği, içerik keşfedebildiği ve birbirleriyle bağlantı kurabildiği genel amaçlı bir sosyal platformdur. Tarım topluluğundan doğan platform; yalnızca tarımla sınırlı değildir. Farklı konulara, topluluklara ve sosyal paylaşımlara da alan açar.
 
-İster tarlasından öğrendiklerini paylaşan bir üretici, ister tarımı yakından takip eden biri ol; Agro Sosyal’de topluluğa katıl, keşfet ve bağlantıda kal.
+Gönderilerle düşünceni paylaş, hikâyeler ve kısa videolarla anlarını anlat, ortak ilgi alanlarında topluluklara katıl ve yeni insanlarla bağlantı kur.
 
 > **Üretimini paylaş. Topluluğunu büyüt.**
 
-## Agro Sosyal’de neler var?
+## Platformda neler var?
 
-- **Tarım topluluğu:** Gönderilerle deneyimlerini paylaş, diğer üreticileri ve tarım meraklılarını keşfet.
-- **Ürün pazaryeri:** Tarımsal ürünleri incele, kendi ürünlerini sergile ve ilgilenen kişilerle iletişim kur.
-- **Hikâyeler ve kısa videolar:** Tarımdan anları, fikirleri ve üretim sürecini toplulukla paylaş.
-- **Topluluklar ve mesajlaşma:** Ortak ilgi alanları etrafında buluş, kullanıcılarla bağlantı kur.
-- **Tarım odaklı araçlar:** Tarım dünyasına yönelik bilgi ve yardımcı özelliklere tek bir yerden ulaş.
+- **Sosyal akış:** Farklı konulardaki gönderileri paylaş, takip ettiğin kişilerin içeriklerini keşfet.
+- **Profiller ve bağlantılar:** İlgi alanlarını göster, kullanıcıları takip et ve topluluğunu oluştur.
+- **Hikâyeler ve kısa videolar:** Günlük anlarını, fikirlerini ve üretim süreçlerini paylaş.
+- **Topluluklar ve mesajlaşma:** Ortak ilgi alanları çevresinde buluş, kullanıcılarla iletişim kur.
+- **Tarım dünyasına özel alanlar:** Ürün pazaryeri ve tarım odaklı bilgi/araç özelliklerini keşfet.
 
 Özelliklerin güncel kullanılabilirliği için [canlı siteyi](https://sehitumitkestitarimmtal.com/agrolink/) ziyaret edin.
 
@@ -36,7 +36,7 @@
 
 | Platform | Bağlantı |
 | --- | --- |
-| Web sitesi | [sehitumitkestitarimmtal.com/agrolink](https://sehitumitkestitarimmtal.com/agrolink/) |
+| Web sitesi | [Agro Sosyal web sitesi](https://sehitumitkestitarimmtal.com/agrolink/) |
 | Instagram | [@agrososyal.app](https://www.instagram.com/agrososyal.app?hvrq=MWRqanlmYWpqeDU4NQ==) |
 | Android uygulaması | [Google Play’de Agro Sosyal](https://play.google.com/store/apps/details?id=com.yourcompany.agrolink) |
 
@@ -63,6 +63,10 @@ npm run dev
 npm run build
 ```
 
+## Lisans
+
+Bu proje, özel ve açık kaynak olmayan **AGRS-1 Özel Proje Lisansı** kapsamındadır. Kaynak kod, resmî Agro Sosyal platformunu geliştirmek için değiştirilebilir; bağımsız bir klon veya yeniden markalanmış platform olarak yayımlanamaz. Ayrıntılar için [AGRS-1 lisans metnini](LICENSE-AGRS-1.md) okuyun.
+
 ## Proje sahipliği
 
-Resmî depodaki kaynak kodu ve yayınlanan değişiklikler depo sahibi tarafından yönetilir. Herkese açık olması, ziyaretçilere depoya doğrudan yazma yetkisi vermez.
+Resmî depodaki kaynak kodu ve yayımlanan değişiklikler depo sahibi tarafından yönetilir. Depoyu görüntülemek, resmi depoya doğrudan yazma yetkisi vermez.
