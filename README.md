@@ -1,33 +1,54 @@
 <div align="center">
-  <img src="public/agro.png" alt="AgroLink logosu" width="132" />
-  <h1>AgroLink</h1>
+  <img src="public/agro.png" alt="Agro Sosyal logosu" width="150" />
+  <h1>Agro Sosyal</h1>
   <p><strong>Tarladan geleceğe, aynı toplulukta.</strong></p>
-  <p>Çiftçileri, üreticileri ve tarıma ilgi duyan herkesi bir araya getiren sosyal tarım platformu.</p>
-  <p><a href="https://sehitumitkestitarimmtal.com/agrolink/">Canlı siteyi ziyaret et</a></p>
+  <p>Çiftçilerin, üreticilerin ve tarıma gönül verenlerin buluştuğu dijital topluluk.</p>
+  <p>
+    <a href="https://sehitumitkestitarimmtal.com/agrolink/">Web sitesini keşfet</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.instagram.com/agrososyal.app?hvrq=MWRqanlmYWpqeDU4NQ==">Instagram’da takip et</a>
+    &nbsp;·&nbsp;
+    <a href="https://play.google.com/store/apps/details?id=com.yourcompany.agrolink">Google Play’den indir</a>
+  </p>
 </div>
 
-## AgroLink hakkında
+---
 
-AgroLink; tarım topluluğunun deneyimlerini paylaşmasına, üreticilerin ürünlerini tanıtmasına ve tarım dünyasından insanlarla bağlantı kurmasına yardımcı olan bir sosyal platformdur. Akış, topluluklar, kısa videolar ve ürün pazaryeri gibi özellikleri tek bir dijital buluşma noktasında sunar.
+## Tarımın buluşma noktası
 
-## Öne çıkanlar
+Üretimin arkasında emek, tecrübe ve paylaşılacak nice hikâye var. **Agro Sosyal**, tarım dünyasından insanları bir araya getirerek deneyimlerin paylaşılmasına, yeni bağlantılar kurulmasına ve ürünlerin daha görünür olmasına yardımcı olur.
 
-- Tarım topluluğuyla gönderi ve bilgi paylaşımı
-- Üreticilerin ürünlerini sergileyebildiği pazar yeri
-- Hikâyeler, kısa videolar ve canlı yayın deneyimleri
-- Topluluklar, profiller, takip ve mesajlaşma
-- Tarım odaklı araçlar ve bilgi sayfaları
+İster tarlasından öğrendiklerini paylaşan bir üretici, ister tarımı yakından takip eden biri ol; Agro Sosyal’de topluluğa katıl, keşfet ve bağlantıda kal.
 
-Özellikler ve kullanılabilirlik zaman içinde değişebilir. Güncel deneyim için [canlı siteyi](https://sehitumitkestitarimmtal.com/agrolink/) ziyaret edin.
+> **Üretimini paylaş. Topluluğunu büyüt.**
 
-## Teknoloji
+## Agro Sosyal’de neler var?
 
-- React 18 ve TypeScript
-- Vite
-- Tailwind CSS ve shadcn/ui
-- React Router
+- **Tarım topluluğu:** Gönderilerle deneyimlerini paylaş, diğer üreticileri ve tarım meraklılarını keşfet.
+- **Ürün pazaryeri:** Tarımsal ürünleri incele, kendi ürünlerini sergile ve ilgilenen kişilerle iletişim kur.
+- **Hikâyeler ve kısa videolar:** Tarımdan anları, fikirleri ve üretim sürecini toplulukla paylaş.
+- **Topluluklar ve mesajlaşma:** Ortak ilgi alanları etrafında buluş, kullanıcılarla bağlantı kur.
+- **Tarım odaklı araçlar:** Tarım dünyasına yönelik bilgi ve yardımcı özelliklere tek bir yerden ulaş.
 
-## Geliştirme
+Özelliklerin güncel kullanılabilirliği için [canlı siteyi](https://sehitumitkestitarimmtal.com/agrolink/) ziyaret edin.
+
+## Agro Sosyal’i keşfet
+
+| Platform | Bağlantı |
+| --- | --- |
+| Web sitesi | [sehitumitkestitarimmtal.com/agrolink](https://sehitumitkestitarimmtal.com/agrolink/) |
+| Instagram | [@agrososyal.app](https://www.instagram.com/agrososyal.app?hvrq=MWRqanlmYWpqeDU4NQ==) |
+| Android uygulaması | [Google Play’de Agro Sosyal](https://play.google.com/store/apps/details?id=com.yourcompany.agrolink) |
+
+## Marka görseli
+
+Depoda kullanılan Agro Sosyal logosu: [`public/agro.png`](public/agro.png).
+
+## Geliştirici notları
+
+Bu depo, Agro Sosyal web uygulamasının kaynak kodunu içerir. Proje React, TypeScript ve Vite ile hazırlanmıştır.
+
+### Yerel çalıştırma
 
 Gereksinimler: Node.js ve npm.
 
@@ -36,20 +57,12 @@ npm install
 npm run dev
 ```
 
-Üretim derlemesi:
+### Üretim derlemesi
 
 ```bash
 npm run build
 ```
 
-## Tanıtım
+## Proje sahipliği
 
-Marka için hazırlanan sosyal medya metinleri ve reklam taslakları [`ADVERTISING.md`](ADVERTISING.md) dosyasındadır.
-
-## Güvenlik ve yapılandırma
-
-Yerel gizli ayarları `.env` dosyasında tutun; `.env` Git tarafından yok sayılır. Gizli anahtarları veya kullanıcı verilerini kaynak koda, commit geçmişine ya da herkese açık issue’lara eklemeyin. Bu depoda `.env` dosyası yayımlanmaz.
-
-## Marka
-
-Depoda kullanılan görsel: [`public/agro.png`](public/agro.png). Site içindeki kullanım mevcut AgroLink/Agro Sosyal marka kimliğini takip eder.
+Resmî depodaki kaynak kodu ve yayınlanan değişiklikler depo sahibi tarafından yönetilir. Herkese açık olması, ziyaretçilere depoya doğrudan yazma yetkisi vermez.
